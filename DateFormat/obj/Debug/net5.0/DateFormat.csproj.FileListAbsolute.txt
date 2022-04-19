@@ -1,0 +1,12 @@
+C:\Users\Administrador\Desktop\Prog 2 2022\C#\TestDateFormat\DateFormat\bin\Debug\net5.0\DateFormat.deps.json
+C:\Users\Administrador\Desktop\Prog 2 2022\C#\TestDateFormat\DateFormat\bin\Debug\net5.0\DateFormat.dll
+C:\Users\Administrador\Desktop\Prog 2 2022\C#\TestDateFormat\DateFormat\bin\Debug\net5.0\ref\DateFormat.dll
+C:\Users\Administrador\Desktop\Prog 2 2022\C#\TestDateFormat\DateFormat\bin\Debug\net5.0\DateFormat.pdb
+C:\Users\Administrador\Desktop\Prog 2 2022\C#\TestDateFormat\DateFormat\obj\Debug\net5.0\DateFormat.csproj.AssemblyReference.cache
+C:\Users\Administrador\Desktop\Prog 2 2022\C#\TestDateFormat\DateFormat\obj\Debug\net5.0\DateFormat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Desktop\Prog 2 2022\C#\TestDateFormat\DateFormat\obj\Debug\net5.0\DateFormat.AssemblyInfoInputs.cache
+C:\Users\Administrador\Desktop\Prog 2 2022\C#\TestDateFormat\DateFormat\obj\Debug\net5.0\DateFormat.AssemblyInfo.cs
+C:\Users\Administrador\Desktop\Prog 2 2022\C#\TestDateFormat\DateFormat\obj\Debug\net5.0\DateFormat.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\Prog 2 2022\C#\TestDateFormat\DateFormat\obj\Debug\net5.0\DateFormat.dll
+C:\Users\Administrador\Desktop\Prog 2 2022\C#\TestDateFormat\DateFormat\obj\Debug\net5.0\ref\DateFormat.dll
+C:\Users\Administrador\Desktop\Prog 2 2022\C#\TestDateFormat\DateFormat\obj\Debug\net5.0\DateFormat.pdb
